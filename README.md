@@ -3,8 +3,7 @@
 AI4003 Applied Machine Learning, Assignment 2 (Fall 2026)
 Logistic regression written by hand in NumPy, and support vector machines (linear and RBF) with scikit-learn.
 
-**Team:** `<Member 1 name, roll no.>` and `<Member 2 name, roll no.>`
-**Blog:** `<Medium link>`  **LinkedIn post:** `<LinkedIn link>`
+**Team:** `Ahmad Hasssan` and `Hussain `
 
 ## The problem
 
