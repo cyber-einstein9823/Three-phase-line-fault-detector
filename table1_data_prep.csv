@@ -1,0 +1,7 @@
+Item,Value
+Raw rows / raw columns,12001 / 9
+Columns removed (names),"Unnamed: 7, Unnamed: 8"
+Missing values after cleaning,0
+Fault rows / no-fault rows,5496 / 6505
+Train / validation / test rows,7200 / 2400 / 2401
+Fault fraction train / val / test,0.461 / 0.451 / 0.456
